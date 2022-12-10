@@ -73,7 +73,7 @@ public class Main {
         int years2 = 2022+100;
         for(int g = 0;g < 2122;g=g+79){
             if ((g>years1) && (g < years2)){
-                System.out.println(g);
+                System.out.println(g) ;
             }
         }
     }
